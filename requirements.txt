@@ -44,7 +44,7 @@ pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_
 pydantic==2.10.6
 pydantic_core==2.27.2
 PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1733217236728/work
-python-telegram-bot
+python-telegram-bot>=13.0
 requests
 python-dotenv
 ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1736248058782/work
